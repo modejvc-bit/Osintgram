@@ -14,7 +14,7 @@ contact details — in a web interface you run on your own machine.
 Ask in plain language and a **local AI model** figures out which lookups to
 run. Or don't: pick the commands yourself and skip the model entirely.
 
-<p align="center">
+<p align="center">@asensiomariaarroyo 
 <img src=".img/web-app.png" width="900" alt="The Osintgram web interface: the request form with a run sheet showing limits and cost, the written answer, and numbered result exhibits with profile details and hashtags">
 </p>
 
